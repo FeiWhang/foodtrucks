@@ -5,7 +5,7 @@ export default function Intro() {
         <div className="intro">
             <h3>About</h3>
             <p>
-                This is a very fun application built to accompany the{" "}
+                This is a extremely fun application built to accompany the{" "}
                 <a href="http://prakhar.me/docker-curriculum">
                     docker curriculum
                 </a>{" "}
